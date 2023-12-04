@@ -1,2 +1,6 @@
-# Prompting_regex
-Desarrollo de un tutorial del uso de Regular Expressions con Promp
+- Cespedes Jamryk Rodrigo   **(Rodcj21)**
+- Estrella Guerra Danilo   **(Danflea)**
+- Prado Alhuay Rommel   **(Rommelghost)**
+
+![Portada](Dummies_3.jpg)
+
