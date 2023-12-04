@@ -1,3 +1,4 @@
+## __Elaborado por:__
 - Cespedes Jamryk Rodrigo   **(Rodcj21)**
 - Estrella Guerra Danilo   **(Danflea)**
 - Prado Alhuay Rommel   **(Rommelghost)**
